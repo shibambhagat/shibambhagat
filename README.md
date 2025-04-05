@@ -8,7 +8,9 @@
 - 🔍 **Aspiring Data Analyst** embarking on a journey to turn raw data into meaningful insights.  
 - 📊 Currently building skills in **Power BI**, **SQL**, and **Excel**, with a focus on mastering data visualization and analytics.  
 - 🌱 Committed to continuous learning and developing a strong foundation in data analytics techniques.  
-- 🤝 Open to collaborations and opportunities that enable me to apply my knowledge and grow through hands-on experience.  
+- 🤝 Open to collaborations and opportunities that enable me to apply my knowledge and grow through hands-on experience. 
+- Experienced Cloud Computing professional with a strong background in Google Cloud Platform (GCP), Compute Engine, Linux, and Load Balancing. Completed the "GCP CloudskillBoost" Digital Leader course, demonstrating proficiency in cloud technologies and solutions. Adept at designing and implementing scalable cloud infrastructure and optimizing system performance. Committed to continuous learning and professional development in the field of cloud computing.
+ 
 
 ## Tools & Technologies  
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-blue)  
@@ -19,6 +21,11 @@
 - 📖 Gaining hands-on experience in **Power BI** to design user-friendly dashboards.  
 - 🔍 Exploring **SQL** for effective data querying and analysis.  
 - 🌟 Building analytical and storytelling capabilities through structured practice with **Excel**.  
+ - Cloud Computing
+- Google Cloud Platform (GCP)
+- Compute Engine
+- Linux
+- Load Balancing
 
 ## Current Projects 📂  
 - 🛠 Exploring small-scale projects, such as creating a **Regional Sales Dashboard** in Power BI to apply data visualization skills.  
@@ -26,7 +33,9 @@
 - 📊 Designing a **Personal Finance Tracker** in Excel to understand data structuring and formula applications.  
 
 ## Certifications & Achievements 📜  
-- 🎓 Completed the **Data & Business Analytics Advanced Certification Program** by Jobaaj Learnings (ID: ACKJA9702).  
+
+ GCP CloudskillBoost: Digital Leader- 
+🎓 Completed the **Data & Business Analytics Advanced Certification Program** by Jobaaj Learnings (ID: ACKJA9702).  
 - 📚 Attended a workshop on **Data Analytics, Visualization, and Interactive Dashboards** by TECH TIP 241. Topics covered:  
   - Basics of Data Analytics Using Power BI  
   - Introduction to Building Interactive Dashboards  
