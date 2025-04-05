@@ -34,7 +34,8 @@
 
 ## Certifications & Achievements 📜  
 
-  - Completed GCP CloudSkillBoost Digital Leader Certification Program 
+  - Completed GCP CloudSkillBoost Digital Leader Certification Program
+  - 
 🎓 Completed the **Data & Business Analytics Advanced Certification Program** by Jobaaj Learnings (ID: ACKJA9702).  
 - 📚 Attended a workshop on **Data Analytics, Visualization, and Interactive Dashboards** by TECH TIP 241. Topics covered:  
   - Basics of Data Analytics Using Power BI  
