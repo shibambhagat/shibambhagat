@@ -1,56 +1,59 @@
-# Hi there, I'm Shibam 👋  
+Sure! Here's a revised version of your README file with some formatting and structure improvements to make it look more professional:
+
+---
+
+# Hi there, I'm Shibam 👋
 
 ![Welcome Banner](https://img.shields.io/badge/Welcome-Data%20Analytics%20Journey-blue?style=for-the-badge)
 
-> “Data is a precious thing and will last longer than the systems themselves.” – Tim Berners-Lee  
+> “Data is a precious thing and will last longer than the systems themselves.” – Tim Berners-Lee
 
-## About Me  
-- 🔍 **Aspiring Data Analyst** embarking on a journey to turn raw data into meaningful insights.  
-- 📊 Currently building skills in **Power BI**, **SQL**, and **Excel**, with a focus on mastering data visualization and analytics.  
-- 🌱 Committed to continuous learning and developing a strong foundation in data analytics techniques.  
-- 🤝 Open to collaborations and opportunities that enable me to apply my knowledge and grow through hands-on experience. 
-- Experienced Cloud Computing professional with a strong background in Google Cloud Platform (GCP), Compute Engine, Linux, and Load Balancing. Completed the "GCP CloudskillBoost" Digital Leader course, demonstrating proficiency in cloud technologies and solutions. Adept at designing and implementing scalable cloud infrastructure and optimizing system performance. Committed to continuous learning and professional development in the field of cloud computing.
- 
+## About Me
+- 🔍 **Aspiring Data Analyst** on a journey to turn raw data into meaningful insights.
+- 📊 Building skills in **Power BI**, **SQL**, and **Excel**, focusing on mastering data visualization and analytics.
+- 🌱 Committed to continuous learning and developing a strong foundation in data analytics techniques.
+- 🤝 Open to collaborations and opportunities to apply my knowledge and grow through hands-on experience.
+- 💻 Learned Cloud Computing professional with a strong background in Google Cloud Platform (GCP), Compute Engine, Linux, and Load Balancing. Completed the "GCP CloudskillBoost" Digital Leader course, demonstrating proficiency in cloud technologies and solutions. Adept at designing and implementing scalable cloud infrastructure and optimizing system performance.
 
-## Tools & Technologies  
-![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-blue)  
-![SQL](https://img.shields.io/badge/SQL-Database%20Management-green)  
-![Excel](https://img.shields.io/badge/Excel-Business%20Analytics-orange)  
+## Tools & Technologies
+- ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-blue)
+- ![SQL](https://img.shields.io/badge/SQL-Database%20Management-green)
+- ![Excel](https://img.shields.io/badge/Excel-Business%20Analytics-orange)
+- ![GCP](https://img.shields.io/badge/GCP-Cloud%20Computing-red)
+- ![Linux](https://img.shields.io/badge/Linux-Operating%20System-yellow)
+- ![Load Balancing](https://img.shields.io/badge/Load%20Balancing-Cloud%20Infrastructure-purple)
 
-## My Learning Journey 🚀  
-- 📖 Gaining hands-on experience in **Power BI** to design user-friendly dashboards.  
-- 🔍 Exploring **SQL** for effective data querying and analysis.  
-- 🌟 Building analytical and storytelling capabilities through structured practice with **Excel**.  
- - Cloud Computing
-- Google Cloud Platform (GCP)
-- Compute Engine
-- Linux
-- Load Balancing
+## My Learning Journey 🚀
+- 📖 Gaining hands-on experience in **Power BI** to design user-friendly dashboards.
+- 🔍 Exploring **SQL** for effective data querying and analysis.
+- 🌟 Building analytical and storytelling capabilities through structured practice with **Excel**.
+- ☁️ Expanding knowledge in **Cloud Computing**, specifically with Google Cloud Platform (GCP), Compute Engine, and Load Balancing.
 
-## Current Projects 📂  
-- 🛠 Exploring small-scale projects, such as creating a **Regional Sales Dashboard** in Power BI to apply data visualization skills.  
-- 📝 Practicing SQL with case studies to strengthen database query skills.  
-- 📊 Designing a **Personal Finance Tracker** in Excel to understand data structuring and formula applications.  
+## Current Projects 📂
+- 🛠 Creating a **Regional Sales Dashboard** in Power BI to apply data visualization skills.
+- 📝 Practicing SQL with case studies to strengthen database query skills.
+- 📊 Designing a **Personal Finance Tracker** in Excel to understand data structuring and formula applications.
 
-## Certifications & Achievements 📜  
+## Certifications & Achievements 📜
+- 🎓 Completed **Data & Business Analytics Advanced Certification Program** by Jobaaj Learnings (ID: ACKJA9702)
+- 🏅 Completed **GCP CloudSkillBoost Digital Leader Certification Program**
+- 📚 Attended a workshop on **Data Analytics, Visualization, and Interactive Dashboards** by TECH TIP 241 covering:
+  - Basics of Data Analytics Using Power BI
+  - Introduction to Building Interactive Dashboards
+  - Working with Unstructured Data in Power BI
+  - Overview of Power Query Editor and Power BI Service
+- 💻 Completed **Google Cloud Introduction to Generative AI** program, earning a badge for foundational AI knowledge
+- 🏅 Completed **Data Analytics with Specialization in Tableau Workshop** from Jobaaj Learnings, topics included:
+  - Introduction to Tableau Visualization Techniques
+  - Basics of Data Analysis with Tableau
+  - Building Simple Dashboards and Stories
+- ✍️ Demonstrated attention to detail with a typing proficiency of **28 WPM and 97.2% accuracy**
 
-  - Completed GCP CloudSkillBoost Digital Leader Certification Program
-  - 
-🎓 Completed the **Data & Business Analytics Advanced Certification Program** by Jobaaj Learnings (ID: ACKJA9702).  
-- 📚 Attended a workshop on **Data Analytics, Visualization, and Interactive Dashboards** by TECH TIP 241. Topics covered:  
-  - Basics of Data Analytics Using Power BI  
-  - Introduction to Building Interactive Dashboards  
-  - Working with Unstructured Data in Power BI  
-  - Overview of Power Query Editor and Power BI Service  
-- 💻 Completed the **Google Cloud Introduction to Generative AI** program, earning a badge for foundational AI knowledge.  
-- 🏅 Completed the **Data Analytics with Specialization in Tableau Workshop** from Jobaaj Learnings. Topics included:  
-  - Introduction to Tableau Visualization Techniques  
-  - Basics of Data Analysis with Tableau  
-  - Building Simple Dashboards and Stories  
-- ✍️ Tested typing proficiency with **28 WPM and 97.2% accuracy**, demonstrating attention to detail.  
+## Let's Connect
+- 📧 Email: [shibambhagat03@gmail.com](mailto:shibambhagat03@gmail.com)
 
-## Let's Connect  
-- 📧 Email: [shibambhagat03@gmail.com](mailto:shibambhagat03@gmail.com)  
+---
 
----  
 Feel free to explore my repositories, connect with me, and join me on this exciting journey into data analytics. Let's learn and grow together! 🚀
+
+---
